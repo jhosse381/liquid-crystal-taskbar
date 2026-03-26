@@ -1,0 +1,1 @@
+{\n  "name": "liquid-crystal-taskbar",\n  "version": "1.0.0",\n  "main": "main.js",\n  "scripts": {\n    "start": "electron .",\n    "build": "electron-builder"\n  },\n  "dependencies": {\n    "electron": ">=11.0.0"\n  },\n  "devDependencies": {\n    "electron-builder": "^22.10.5"\n  }\n}
